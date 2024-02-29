@@ -19,7 +19,8 @@ System.out.println(arr);
 System.out.println("========");
 System.out.println("수정할 메뉴 입력");
 String search = input.next();
-System.out.println(arr.contains(search)); //메뉴 수정
+System.out.println(arr.conta
+		ins(search)); //메뉴 수정
 System.out.println(arr.indexOf(search)); 
 System.out.println("------------------");
 int index = arr.indexOf(search);

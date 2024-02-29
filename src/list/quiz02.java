@@ -28,5 +28,6 @@ public static void main(String[] args) {
 	System.out.println("뽑은 번호 :"+lotto);
 	
 	//ArrayList의 중요 메소드 : size(),add(),get(),remove()
+	//https://milku.tistory.com/14
 }
 }
